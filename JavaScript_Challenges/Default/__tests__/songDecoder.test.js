@@ -1,4 +1,4 @@
-import songDecoder from "../challenges/soungDecoder";
+import songDecoder from "../challenges/songDecoder";
 
 describe("Soung Decoder", () => {
   it("Validate a string decoded with", () => {

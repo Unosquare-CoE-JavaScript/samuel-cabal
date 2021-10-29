@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "babel challenges/soungDecoder.js -d build",
-    "start": "npm run build && node build/soungDecoder.js",
+    "build": "babel challenges/exesAndOhs.js -d build",
+    "start": "npm run build && node build/exesAndOhs.js",
     "test": "jest --verbose"
   },
   "author": "Samuel Cabal Lozano",
