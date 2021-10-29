@@ -32,4 +32,4 @@ I hope it helps you
 
 <!--#### 5. [TDD](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
 
-#### 2. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)
+#### 2. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavasCript_Challenges)
