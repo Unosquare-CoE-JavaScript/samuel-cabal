@@ -26,10 +26,10 @@ I hope it helps you
 
 <!--#### 2. [JavaScript Asynchronous](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
 
-#### 1. [TypeScript](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)
+#### 1. [TypeScript](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/TypeScript_Fundamentals)
 
 <!--#### 4. [JavaScript Patterns](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
 
 <!--#### 5. [TDD](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
 
-#### 2. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavasCript_Challenges)
+#### 2. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavaScript_Challenges)
