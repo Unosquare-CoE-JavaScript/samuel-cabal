@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "babel challenges/validatePin.js -d build",
-    "start": "npm run build && node build/validatePin.js",
+    "build": "babel challenges/humanReadable.js -d build",
+    "start": "npm run build && node build/humanReadable.js",
     "test": "jest --verbose"
   },
   "author": "Samuel Cabal Lozano",
