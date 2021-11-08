@@ -24,14 +24,14 @@ I hope it helps you
 
 ## Projects
 
-<!--#### 1. [Performance of node servers](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
+#### 1. [Performance of node servers](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)
 
 <!--#### 2. [JavaScript Asynchronous](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
 
-#### 1. [TypeScript](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/TypeScript_Fundamentals)
+#### 2. [TypeScript](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/TypeScript_Fundamentals)
 
 <!--#### 4. [JavaScript Patterns](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
 
 <!--#### 5. [TDD](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
 
-#### 2. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavaScript_Challenges)
+#### 3. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavaScript_Challenges)
