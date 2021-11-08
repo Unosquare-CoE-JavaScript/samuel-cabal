@@ -1,10 +1,12 @@
 <h1 align="center">Center Of Excellence: JavaScript</h1>
 <p align="center">
-  <img src="https://victorroblesweb.es/wp-content/uploads/2018/01/nodejs-victorroblesweb.png" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="40" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" width="40" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="40" />
+  <img src="https://victorroblesweb.es/wp-content/uploads/2018/01/nodejs-victorroblesweb.png" width="40" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="40" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.egm-robotics.com/assets/img/servicios/mas_servicios/aws.jpg" width="40" />
   &nbsp;&nbsp;&nbsp;
@@ -26,10 +28,10 @@ I hope it helps you
 
 <!--#### 2. [JavaScript Asynchronous](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
 
-#### 1. [TypeScript](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)
+#### 1. [TypeScript](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/TypeScript_Fundamentals)
 
 <!--#### 4. [JavaScript Patterns](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
 
 <!--#### 5. [TDD](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
 
-#### 2. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavasCript_Challenges)
+#### 2. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavaScript_Challenges)
