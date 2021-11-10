@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "babel challenges/humanReadable.js -d build",
-    "start": "npm run build && node build/humanReadable.js",
+    "build": "babel challenges/objectBaker.js -d build",
+    "start": "npm run build && node build/objectBaker.js",
     "test": "jest --verbose"
   },
   "author": "Samuel Cabal Lozano",
