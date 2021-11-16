@@ -9,9 +9,6 @@ yarn-error.log*
 # Output of 'npm pack'
 *.tgz
 
-# JS Files
-*.js
-
 # Node modules
 node_modules
 
