@@ -30,8 +30,8 @@ I hope it helps you
 
 #### 2. [TypeScript](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/TypeScript_Fundamentals)
 
-<!--#### 4. [JavaScript Patterns](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
+#### 3. [JavaScript Patterns](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/Design_Patterns)
 
 <!--#### 5. [TDD](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
 
-#### 3. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavaScript_Challenges)
+#### 4. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavaScript_Challenges)
