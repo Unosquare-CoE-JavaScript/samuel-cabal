@@ -4,3 +4,8 @@
 
 - Using message passing
 - Using shared memory
+
+## Doubts:
+
+- ervice Workers caching size
+- The RPC Pattern
