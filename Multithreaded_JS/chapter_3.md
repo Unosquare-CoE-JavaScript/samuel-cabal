@@ -34,7 +34,7 @@ To understand what magic the Node Js potion performs, you should be aware of its
 In Node Js there are two types of threads:
 
 - **Event Loop:** Handles the initialization & callbacks(aka: main loop, the main thread, event thread, etc).
-- **Threadpool:** A pool of k Workers in a Worker Pool.
+- **Threadpool:** A pool of Workers in a Worker Pool.
 
 Whenever you run a js file, Node first creates a single thread and runs everything in that thread, called the Event Loop. But, when it comes across some tasks like fs.readFile() (fs is the File System module, it enables you to interact with the file system) or using crypto.pbkdf2() (crypto module provides you with cryptographic functionality that includes a set of wrappers for OpenSSL’s hash, HMAC, cipher, decipher, sign, and verify functions.
 
@@ -330,5 +330,3 @@ For each CORE available, a concurrent process is launched to solve a fraction of
 
   Once these objects are transferred, they can no longer be used
   on the sending side.
-
----

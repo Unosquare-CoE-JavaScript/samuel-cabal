@@ -33,8 +33,8 @@ const THREAD_COUNT = 4;
 if (!Piscina.isWorkerThread) {
   // <1>
   const piscina = new Piscina({
-    filename: __filename, // <2>
-    minThreads: THREAD_COUNT, // <3>
+    filename: __filename,
+    minThreads: THREAD_COUNT,
     maxThreads: THREAD_COUNT,
   });
   let done = 0;
@@ -42,7 +42,7 @@ if (!Piscina.isWorkerThread) {
   for (let i = 0; i < THREAD_COUNT; i++) {
     // <4>
     (async () => {
-      const { total, happycoins } = await piscina.run(); // <5>
+      const { total, happycoins } = await piscina.run();
       process.stdout.write(happycoins);
       count += total;
       if (++done === THREAD_COUNT) {

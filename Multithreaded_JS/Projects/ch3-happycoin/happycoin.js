@@ -37,3 +37,4 @@ for (let i = 1; i < 10_000_000; i++) {
 }
 
 process.stdout.write("\ncount " + count + "\n");
+("");
