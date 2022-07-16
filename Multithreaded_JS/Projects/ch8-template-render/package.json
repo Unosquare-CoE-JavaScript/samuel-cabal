@@ -1,5 +1,5 @@
 {
-  "name": "projects",
+  "name": "ch8-template-render",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,12 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cluster": "^0.7.7",
-    "express": "^4.17.1",
-    "piscina": "^3.1.0",
-    "sleep": "^6.3.0"
-  },
-  "devDependencies": {
-    "@wasm-tool/wasi": "^0.0.4"
+    "fastify": "^3.19.1",
+    "mustache": "^4.2.0"
   }
 }

@@ -36,4 +36,4 @@ I hope it helps you
 
 #### 5. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavaScript_Challenges)
 
-#### 6. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/You_Dont_Know_JS_Yet)
+#### 6. [You_Dont_Know_JS_Yet](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/You_Dont_Know_JS_Yet)
